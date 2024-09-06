@@ -7,4 +7,18 @@ body {
  align-items: center;
  background-size: cover;
  background-repeat: no-repeat;
+background-color: blue;
+color: aliceblue;
+font-family: "Press Start 2P", cursive;
+}
+
+#titulo{
+    letter-spacing: 3px;
+    font-weight: 600;
+    color: black;
+}
+
+.canvas {
+    margin-bottom: 50px;
+}
 
